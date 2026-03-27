@@ -79,23 +79,15 @@ Une application a été développée avec Streamlit pour :
 
 ---
 
-## Reproduction
-Pour reproduire le projet localement :
+## Reproductibilité
+Les jeux de données et les modèles entraînés ne sont pas inclus dans ce repository en raison de leur volume.
 
-1. Installer les librairies Python listées dans requirements.txt :
-```
-pip install -r requirements.txt
-```
-2. Lancer l'application Streamlit
-```
-streamlit run src/homePage.py
-```
+Le projet met l’accent sur :
+- la structuration du pipeline de données
+- les étapes de préparation et de modélisation
+- la logique d’analyse et de prédiction
 
----
-
-## Remarques
-- Les datasets et modèles ne sont pas inclus pour des raisons de volume
-- Le projet met l’accent sur la reproductibilité et la structuration du code
+Le code peut être exécuté avec des données équivalentes.
 
 ---
 
