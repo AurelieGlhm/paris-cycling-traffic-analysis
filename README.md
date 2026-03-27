@@ -86,7 +86,7 @@ Pour reproduire le projet localement :
 ```
 pip install -r requirements.txt
 ```
-2. Lancer l'application Sreamlit
+2. Lancer l'application Streamlit
 ```
 streamlit run src/homePage.py
 ```
